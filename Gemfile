@@ -14,6 +14,7 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails'
   gem 'ZenTest', '4.11.0'
+  gem 'pg'
 end
 
 group :test do
